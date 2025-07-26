@@ -3,6 +3,10 @@
 <h3 align="center">Computer science student, IT developer from Russia 🇷🇺</h3>
 <h3 align="center">I have been studying programming for about 4 years.</h3>
 
+- 📡 Supported repositories:
+  - 🖼 [DI Export/Output](https://github.com/MrDanilus/DI-Export-Output)
+  - 📑 [ToDone](https://github.com/MrDanilus/ToDone)
+
 - 🎓 I’m currently know and developing:
   - ⚙ Backend:
     [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
