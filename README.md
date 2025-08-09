@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT developer from Russia 🇷🇺</h3>
 <h3 align="center">I have been studying programming for about 4 years.</h3>
 
-![![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=MrDanilus)](https://www.codewars.com/users/MrDanilus)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=MrDanilus)](https://www.codewars.com/users/MrDanilus)
 
 - 📡 Supported repositories:
   - 🖼 [DI Export/Output](https://github.com/MrDanilus/DI-Export-Output)
